@@ -8,7 +8,7 @@
 - 🌱 I’m 19 years old
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Start college and gain experience in industry
-- ⚡ Fun fact: I love to travel and play guitar / drums
+- ⚡ Fun fact: I love to travel and drive car
 
 ### Connect with me:
 
