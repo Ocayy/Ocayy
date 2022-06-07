@@ -38,6 +38,6 @@
 <details>
     <summary> 💻 Recent projects: </summary>
 
-1. [Zalando-Newsletter](https://github.com/Ocayy/Zalando-Newsletter) - Zalando discount code generator
+1. [**Zalando-Newsletter**](https://github.com/Ocayy/Zalando-Newsletter) - Zalando discount code generator
 
 </details>
