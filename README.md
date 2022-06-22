@@ -15,8 +15,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/Ocayy_#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Ocayy_#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jakubnowosad#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jakubnowosad#gh-dark-mode-only)
 
 ### Languages and Tools:
 
