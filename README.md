@@ -5,7 +5,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m 19 years old
+- 🌱 I’m 20 years old
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Expanding knowledge in the field of IT
 - ⚡ Fun fact: I love to travel
